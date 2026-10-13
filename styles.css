@@ -15,5 +15,18 @@ sub {
   vertical-align: sub; 
 }
 #angel {
-    width = 200px;
+    width: 200px;
+}
+#angel .fix{
+    position:fixed;
+    bottom:0px;
+    left:0%;
+}
+#short{
+    width: 350px;
+}
+#short .fix{
+    position:fixed;
+    bottom:0px;
+    left:50%;
 }
